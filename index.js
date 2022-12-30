@@ -32,7 +32,6 @@ for (var i = 0; i < 10; i++) {
             alert("You've lost " + losses + ' time(s).');
         }
     }
-}
 
 alert('Total wins: ' + wins + '\nTotal ties: ' + ties + '\nTotal losses: ' + losses);
 
